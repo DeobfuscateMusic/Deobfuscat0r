@@ -9,7 +9,7 @@
 
 ---
 
-<img width="1415" height="724" alt="Deobfuscat0r preview" src="https://github.com/user-attachments/assets/9cbc659a-5101-48a8-8ac9-99c563b2cb7c" />
+<img width="1418" height="728" alt="Deobfuscat0r preview" src="https://github.com/user-attachments/assets/438e8559-7bc9-4afd-b9e8-d1cd2a8a3ce2" />
 
 ---
 
