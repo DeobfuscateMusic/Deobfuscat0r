@@ -98,4 +98,4 @@ _This software is free. Don't forget to give it a ⭐ on Github if you liked the
 ---
 
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
-<p align="center">2025</p>
+<p align="center">2026</p>
