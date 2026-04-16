@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/ea3b8827-1438-4fd5-9ee5-0b61651490d4
 3. Connect your MIDI Interface via USB before launching the application.
 - _Note: Fill the Permissions tutorial below for first-time setup._
 3. Configure your synthesizers to their designated MIDI channels (see Routing Table Examples).
-4. Click on **PLAY**. It will start the MIDI engine and transport.
+4. Click on `PLAY`. It will start the MIDI engine and transport.
 
 ---
 
@@ -62,7 +62,7 @@ Required to send and receive note/CC data from your hardware.
 
 ### 𝟐. 𝐒𝐲𝐬𝐄𝐱 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬
 Required for deep integration and mapping with specific hardware protocols.
-- Click **Allow** for "Use System Exclusive Messages."
+- Click `Allow for Use System Exclusive Messages`.
 
 ---
 
