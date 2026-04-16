@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/ea3b8827-1438-4fd5-9ee5-0b61651490d4
 
 ---
 
-## 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
+## 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬
 
 - **Performance Strips**: Four critical parameters per channel for tactile sequencing: **PRB** (Probability/Likelihood), **TIM** (Timing/Jitter), **VEL** (Velocity Layers), and **GAT** (Gate/Note Length).
 
