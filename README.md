@@ -97,6 +97,6 @@ _This software is free. Don't forget to give it a ⭐ on Github if you liked the
 
 ---
 
-<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/4077d987-dfb8-4239-a04a-daef950b7829" /></p>
+<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/d01fe1b0-75f9-4429-a4ef-32867f1ce50c" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
