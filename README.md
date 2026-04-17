@@ -1,6 +1,6 @@
 # 𝐃𝐞𝐨𝐟𝐮𝐬𝐜𝐚𝐭𝟎𝐫
 
-> _Centralized MIDI Hub & Harmonic Quantizer. Precision controls for complex hardware synthesizer rigs and live performances. Harmonizes and quantized frequencies for smooth transitions._
+> _Centralized MIDI Hub & Harmonic Quantizer. Precision controls for complex hardware synthesizer rigs and live performances. Harmonizes and quantizes frequencies for smooth basses, mediums and highs transitions._
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
