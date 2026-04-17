@@ -1,4 +1,4 @@
-# 𝐃𝐞𝐨𝐟𝐮𝐬𝐜𝐚𝐭𝟎𝐫 - 𝐋𝐢𝐯𝐞 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞
+# 𝐃𝐞𝐨𝐟𝐮𝐬𝐜𝐚𝐭𝟎𝐫
 
 > _Centralized MIDI Hub & Harmonic Quantizer. Precision controls for complex hardware synthesizer rigs and live performances. Harmonizes and quantized frequencies for smooth transitions._
 
